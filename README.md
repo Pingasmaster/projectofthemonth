@@ -66,6 +66,11 @@ sudo apt install cool-retro-term
 ```sh
 sudo pacman -Syu cool-retro-term
 ```
+
+#### Bonus points
+
+for installing the steam deck version, available here: ```https://github.com/IncognitoMan/cool-retro-term```
+
 ## November 2022
 Check out my project on how to apply updates automatically on any linux system here: 
 ```https://github.com/Pingasmaster/autoUpdateLinux```
