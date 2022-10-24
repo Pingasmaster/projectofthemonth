@@ -19,7 +19,7 @@ A linux distro on amd64 architecture, git and the base development program for y
 
 * Arch linux:
 ```sh
-sudo pacman -Syu git base-devel qt5-base qt5-declarative qt5-quickcontrols qt5-graphicaleffects
+sudo pacman -Syu --needed git base-devel qt5-base qt5-declarative qt5-quickcontrols qt5-graphicaleffects
 ```
 
 * Debian:
@@ -28,6 +28,9 @@ sudo apt install git build-essential qmlscene qt5-qmake qt5-default qtdeclarativ
 ```
 
 * Ubuntu 20.04 and above:
+
+You will need these packages in addition to the ones above.
+
 ```sh
 sudo apt install qtquickcontrols2-5-dev qml-module-qt-labs-platform qml-module-qtquick-controls qml-module-qtquick-layouts qml-module-qtquick-localstorage
 ```
