@@ -68,4 +68,5 @@ sudo pacman -Syu cool-retro-term
 ```
 ## November 2022
 Check out my project on how to apply updates automatically on any linux system here: 
+```https://github.com/Pingasmaster/autoUpdateLinux```
 Should be usefull for all sysadmins!
