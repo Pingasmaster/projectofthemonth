@@ -80,5 +80,14 @@ for installing the steam deck version, available [here](https://github.com/Incog
 
 ## November 2022
 
-Check out my project on how to apply updates automatically on any linux system [here](https://github.com/Pingasmaster/autoUpdateLinux): 
-Should be usefull for all sysadmins!
+Check out [my project on how to apply updates automatically on any linux system](https://github.com/Pingasmaster/autoUpdateLinux): 
+It should be usefull for all sysadmins!
+
+## December 2022
+
+Check out my project on [how to install arch](https://github.com/Pingasmaster/archInstall/), it actually work and is beginner friendly (omg!).
+
+## January 2023
+
+Happy new year!
+I will drop this project in january.
